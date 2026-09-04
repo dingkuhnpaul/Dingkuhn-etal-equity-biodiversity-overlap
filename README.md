@@ -1,5 +1,5 @@
 # Dingkuhn-etal-equity-biodiversity-overlap
-Analysis code for the paper *"Mapping the Geographic (Mis)alignment of Biodiversity Impacts and Ecosystem-Service Dependencies in Global Equity Portfolios"* (Nature Communications).
+Analysis code for the paper *"Mapping the Geographic Alignment of Biodiversity Impacts and Ecosystem-Service Dependencies in Global Equity Portfolios"* (Nature Communications).
 # equity-biodiversity-overlap
 
 Analysis code for the paper *"Mapping the Geographic (Mis)alignment of Biodiversity
