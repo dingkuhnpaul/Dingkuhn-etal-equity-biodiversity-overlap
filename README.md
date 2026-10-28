@@ -11,7 +11,7 @@ quantifies their overlap within portfolios. It combines Moody's Orbis ownership
 and financial data with the GLORIA multi-regional input–output model, LC-IMPACT
 characterization factors and ENCORE dependency scores.
 
-This repository contains the code and the data underlying the main figures (see Results/Data_Figures/). The raw input data are not included and must be obtained from their original sources (see “Data” below).
+This repository contains the code and the data underlying the main figures (see DataFigures.xlsx). The raw input data are not included and must be obtained from their original sources (see “Data” below).
 
 ## Requirements
 
