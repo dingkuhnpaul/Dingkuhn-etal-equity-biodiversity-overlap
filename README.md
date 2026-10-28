@@ -1,9 +1,8 @@
 # Dingkuhn-etal-equity-biodiversity-overlap
-Analysis code for the paper *"Mapping the Geographic Alignment of Biodiversity Impacts and Ecosystem-Service Dependencies in Global Equity Portfolios"* (Nature Communications).
+Analysis code for the paper *"Geographic Alignment of Biodiversity Impacts and Dependencies in Global Equity Portfolios"* (Nature Communications).
 # equity-biodiversity-overlap
 
-Analysis code for the paper *"Mapping the Geographic (Mis)alignment of Biodiversity
-Impacts and Ecosystem-Service Dependencies in Global Equity Portfolios"*
+Analysis code for the paper *"Geographic Alignment of Biodiversity Impacts and Dependencies in Global Equity Portfolios"*
 (Nature Communications).
 
 The code links global public-equity ownership to the geographic distribution of
@@ -12,8 +11,7 @@ quantifies their overlap within portfolios. It combines Moody's Orbis ownership
 and financial data with the GLORIA multi-regional input–output model, LC-IMPACT
 characterization factors and ENCORE dependency scores.
 
-This repository contains **only the code**. The input data are not included and
-must be obtained from their original sources (see "Data" below).
+This repository contains the code and the data underlying the main figures (see Results/Data_Figures/). The raw input data are not included and must be obtained from their original sources (see “Data” below).
 
 ## Requirements
 
@@ -50,7 +48,7 @@ Run in numbered order; each builds on the objects saved by the previous ones.
 Paths at the top of each script (`setwd(...)`) must be adjusted to the local
 directory structure.
 
-## Data (not included)
+## Input data (not included)
 
 The code is provided for transparency and inspection. Because the ownership data
 are proprietary, the pipeline cannot be run end-to-end from public data alone.
